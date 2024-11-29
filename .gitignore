@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Poetry
+.venv/
+poetry.lock
+
+# Environment files
+.env
+.env.*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Logs and databases
+*.log
+*.sqlite
