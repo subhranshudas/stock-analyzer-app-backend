@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "backend"
+name = "stock-analyzer-app-backend"
 version = "0.1.0"
-description = ""
+description = "Backend for the Stock Analyzer App"
 authors = ["subhranshudas <subhranshu.opt@gmail.com>"]
 readme = "README.md"
 
